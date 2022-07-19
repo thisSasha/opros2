@@ -1,0 +1,12 @@
+body{
+    color: white;
+    background-color: black;
+    background-image: url(../imgs/Codee.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+h1.title{
+    font-size: 300%;
+}
